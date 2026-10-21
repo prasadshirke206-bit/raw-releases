@@ -33,7 +33,7 @@
       <td><b>Manga Reader</b></td>
     </tr>
     <tr>
-      <td><img src="raw_homemenu_movie.jpg" width="220"></td>
+      <td><img src="raw_homemenu_moviesandseries.jpg" width="220"></td>
       <td><img src="raw_homemenu_anime.jpg" width="220"></td>
       <td><img src="raw_musicmenu_player.jpg" width="220"></td>
       <td><img src="raw_readmenu_manga.jpg" width="220"></td>

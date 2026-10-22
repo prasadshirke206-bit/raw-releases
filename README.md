@@ -1,24 +1,27 @@
 <div align="center">
 
-# RAW. 
-### Stream without boundaries.
+# RAW.
+### Your entertainment. One home.
 
-**A native Android engine combining TMDB metadata with advanced web scraping. Movies, anime, and high-fidelity audio in one clean interface.**
+**Discover movies, series, anime, music, manga, and novels in one native Android experience. Explore what you love, find your next favourite, and keep your entertainment together with RAW.**
 
-[![Website](https://img.shields.io/badge/Official_Site-itsraw.qzz.io-E11D48?style=for-the-badge&logo=googlechrome&logoColor=white)](https://itsraw.qzz.io)
+[![Official Website](https://img.shields.io/badge/Official_Site-itsraw.qzz.io-E11D48?style=for-the-badge&logo=googlechrome&logoColor=white)](https://itsraw.qzz.io)
 [![Download](https://img.shields.io/badge/Download-Latest_APK-E11D48?style=for-the-badge&logo=android&logoColor=white)](https://github.com/prasadshirke206-bit/raw-releases/releases/latest)
-[![Instagram](https://img.shields.io/badge/Instagram-@__unfilteredraw-E11D48?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_unfilteredraw?vrfl=MW42M3RhdTBhN2w4Zg==)
-[![Android](https://img.shields.io/badge/Requires-Android_8.0+-0D0D0D?style=for-the-badge&logo=android&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-@_unfilteredraw-E11D48?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_unfilteredraw?vrfl=MW42M3RhdTBhN2w4Zg==)
+![Android](https://img.shields.io/badge/Android-8.0%2B-0D0D0D?style=for-the-badge&logo=android&logoColor=white)
 
 <br>
+
 </div>
 
 ## 🚀 Features
 
-* **🎬 Cinematic Experience. Everywhere.** - Bypass browser clutter with direct HLS streams. Browse massive TMDB catalogs, track your Anime, and cast directly from our native player.
-* **🎵 High-Fidelity Audio.** - Stream 320kbps lossless music natively. Bypass standard DRM protocols, build your perfect playlists, and take your entire library offline.
-* **📖 Read Without Limits.** - Integrated MangaDex APIs for the highest quality encodes. Plus, a powerful multi-threaded download engine to save everything directly to your device.
-* **⚡ Native Jetpack Compose UI** - No webviews. Pure, hardware-accelerated Android performance.
+- **🎬 Movies & Series** — Explore movies and shows, discover something new, and enjoy playback in a dedicated viewing experience.
+- **⚡ Anime** — Find anime to watch and keep your anime experience together in one place.
+- **🎵 Music** — Discover tracks, build playlists, and enjoy a dedicated music player designed for everyday listening.
+- **📖 Manga & Reading** — Explore manga and other reading experiences with a dedicated reader interface.
+- **📥 Downloads** — Manage supported offline downloads and keep selected content accessible on your device.
+- **✨ A Unified Experience** — A cinematic dark interface brings your different entertainment categories together without clutter.
 
 ---
 
@@ -28,15 +31,15 @@
   <table>
     <tr>
       <td><b>Movies & TV</b></td>
-      <td><b>Anime Menu</b></td>
-      <td><b>Lossless Music</b></td>
+      <td><b>Anime</b></td>
+      <td><b>Music Player</b></td>
       <td><b>Manga Reader</b></td>
     </tr>
     <tr>
-      <td><img src="raw_homemenu_moviesandseries.jpg" width="220"></td>
-      <td><img src="raw_homemenu_anime.jpg" width="220"></td>
-      <td><img src="raw_musicmenu_player.jpg" width="220"></td>
-      <td><img src="raw_readmenu_manga.jpg" width="220"></td>
+      <td><img src="raw_homemenu_moviesandseries.jpg" width="220" alt="RAW Movies and TV"></td>
+      <td><img src="raw_homemenu_anime.jpg" width="220" alt="RAW Anime Menu"></td>
+      <td><img src="raw_musicmenu_player.jpg" width="220" alt="RAW Music Player"></td>
+      <td><img src="raw_readmenu_manga.jpg" width="220" alt="RAW Manga Reader"></td>
     </tr>
   </table>
 </div>
@@ -45,13 +48,14 @@
 
 ## 📥 Installation
 
-1. Download the latest `app-release.apk` from the [Releases Tab](https://github.com/prasadshirke206-bit/raw-releases/releases).
-2. If prompted, allow **"Install from Unknown Sources"** in your Android settings.
-3. Install the APK and enjoy. 
-*(Updates are managed automatically over-the-air via the app's internal updater).*
+1. Open the [Releases page](https://github.com/prasadshirke206-bit/raw-releases/releases/latest) and download the latest APK.
+2. If Android asks, allow installation from this source in your device settings.
+3. Install RAW and open the app.
+
+*App availability and features may evolve between releases. Check the release notes for version-specific details.*
 
 ---
 
 ## ⚖️ Legal Disclaimer
 
-RAW is an open-source media aggregator and advanced web scraper. We do not host, upload, own, or store any copyrighted videos, movies, manga, or audio files on our servers. All content is indexed dynamically and accessed directly from third-party websites and publicly available APIs. RAW is not responsible for the content, accuracy, or legality of the materials provided by these third-party services. The use of this software is strictly at your own risk.
+RAW is an independent entertainment application. Names, artwork, and other third-party materials remain the property of their respective owners. Content availability may depend on third-party services and can change over time. RAW does not imply affiliation with or endorsement by third-party rights holders. Users are responsible for ensuring that their use of the application complies with applicable laws and any relevant service terms.
